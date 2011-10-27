@@ -18,8 +18,8 @@
         <target>Должно быть выбранно не менее %min% значений (выбрано %count%).</target>
       </trans-unit>
       <trans-unit>
-        <source>Должно быть выбранно не более %max% значений (выбрано %count%).</source>
-        <target></target>
+        <source>At most %max% values must be selected (%count% values selected).</source>
+        <target>Должно быть выбранно не более %max% значений (выбрано %count%).</target>
       </trans-unit>
       <trans-unit>
         <source>"%value%" does not match the date format (%date_format%).</source>
